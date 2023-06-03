@@ -26,3 +26,19 @@
 <a href="https://www.elastic.co/logstash/" target="_blank" rel="noreferrer"><img src="https://brandslogos.com/wp-content/uploads/thumbs/elastic-logstash-logo-vector.svg" width="36" height="36" alt="Logstash" /></a>
 <a href="https://www.elastic.co/kibana/" target="_blank" rel="noreferrer"><img src="https://brandslogos.com/wp-content/uploads/images/large/elastic-kibana-logo.png" width="36" height="36" alt="Kibana" /></a>
 
+
+### Cloud 
+
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="36" height="36" alt="AWS" /></a>
+<a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="36" height="36" alt="Azure" /></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="36" height="36" alt="Heroku" /></a>
+
+
+
+### Languages 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="36" height="36" alt="Solidity" /></a>
+
+
+
