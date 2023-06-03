@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**volkan4242/volkan4242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on an AWS/DevOps Engineer NioyaTech.
 - 🌱 I’m currently learning Azure Cloud, Terraform, Azure DevOps, Ansible,Jenkins,Kubernetes and Docker.
 
